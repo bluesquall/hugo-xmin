@@ -1,4 +1,6 @@
----
-title: ''
-date: ''
----
++++
+title = ''
+date = {{ .Date }}
+tags = ['none']
+draft = true
++++
